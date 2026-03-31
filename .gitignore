@@ -1,5 +1,6 @@
 # Custom, specific to the project
 generated_gpx/
+/[0-9][0-9]/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
